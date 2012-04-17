@@ -69,3 +69,5 @@
   "Insert a timestamped, signed OPTIMIZE comment."
   (interactive)
   (review-labeled-timestamp-comment "OPTIMIZE"))
+
+(provide 'review)
